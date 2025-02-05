@@ -10,9 +10,9 @@ A Flutter application for generating and scanning QR codes. This app allows user
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![QR Generator Screen](screenshots/qr_generator_screen.png)
-![QR Scanner Screen](screenshots/qr_scanner_screen.png)
+![Image](https://github.com/user-attachments/assets/9542192d-4061-473b-84cc-f423599d2a07)
+![Image](https://github.com/user-attachments/assets/78a31f85-8db4-40e9-9187-9472d2278140)
+![Image](https://github.com/user-attachments/assets/6491167c-0098-480d-a006-caf2853e51b5)
 
 ## Getting Started
 
