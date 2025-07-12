@@ -53,6 +53,3 @@ The home screen provides options to either generate a QR code or scan one. It se
 - [qr_flutter](https://pub.dev/packages/qr_flutter): For generating QR codes.
 - [url_launcher](https://pub.dev/packages/url_launcher): For opening URLs.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
